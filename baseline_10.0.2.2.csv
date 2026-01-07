@@ -1,0 +1,2 @@
+timestamp,host,sent,received,packet_loss_percent,min_rtt_ms,avg_rtt_ms,max_rtt_ms
+2026-01-07T07:28:57.732684,10.0.2.2,10,10,0.0,0.608,0.911,1.411
